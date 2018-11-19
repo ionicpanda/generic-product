@@ -1,0 +1,16 @@
+{
+  "name": "sitescanner",
+  "version": "1.0.0",
+  "description": "A simple website scanner for developers who need to run basic security checks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.12"
+  }
+}
